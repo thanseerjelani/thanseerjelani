@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanseerjelani
 - 👀 I’m interested in Web Development and passionate about learning new concepts
-- 🌱 I’m currently learning at JSS Academy of Technical Education
+- 🌱 B E in Computer Science and Engineering Graduate from Visvesvaraya Technological University (VTU) 
 - 💞️ I’m looking to collaborate on Open-source Javascript libraries and front-end development projects
 - 📫 How to reach me :
 - Email: thanseerjelani@gmail.com
