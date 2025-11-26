@@ -1,4 +1,4 @@
-👋 Hi, I'm Thanseer Jelani
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Hi, I'm Thanseer Jelani
 
 I'm a Full-Stack Software Developer passionate about building scalable backend systems and high-performance web applications. I focus on writing clean, maintainable code, following SOLID, DRY, and KISS principles.
 
